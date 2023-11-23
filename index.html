@@ -30,7 +30,7 @@
                     <div class="profile-logo"><a class="pr-logo-link"  href=""><img class="pr-logo" src="./image/man19152370.jpg" alt=""></a></div>
                 </div>
                 <div class="name-hed"><h2 class="name">Muhammed Niyas MS  </h2><i class="fa-solid fa-badge-check" ></i></div>
-                <div class="designation-div"><p class="designation">Graphic Designer </p><a class="des-link" href="">@NeptuneMark</a></div>
+                <div class="designation-div"><p class="designation">Graphic Designer </p><a class="des-link" href="">@hshsh</a></div>
                 <div class="button">
                     <a class="contact add-contact" href="" download="">Add to Contact</a>
                     <!-- <a class="contact share-contact connect-btn" onclick="openModal('modal-1')" href="">Connect With Me</a> -->
@@ -147,7 +147,7 @@
        document.querySelector('.profile-pic').src=person.profile_pic
        document.querySelector('.name').innerHTML=person.Name;
        document.querySelector('.designation').innerHTML=person.designation;
-       document.querySelector('.pr-logo').src=person.profile_logo
+       
        document.querySelector('.des-link').innerHTML=person.des_link_text;
        document.querySelector('.des-link').href=person.des_link;
        document.querySelector('.pr-logo-link').href=person.des_link;
@@ -159,6 +159,11 @@
        document.querySelector('.mail').href="mailto:"+contact.mail;
        document.querySelector('.share-info').innerHTML="Share your info with <br><b>"+person.Name+"</b>";
 
+       if(logo.visibil==true){
+        document.querySelector('.pr-logo').src=person.profile_logo;
+      }else{
+        document.querySelector('.profile-logo').classList.add("remove-link");
+      };
         
   
 

@@ -1,30 +1,36 @@
 const person = {
-    profile_pic: "./image/ameen.jpeg",
+    profile_pic: "./image/MUTHALIB.jpeg",
     profile_logo: "./image/navigo.jpg",
 
-    Name: "Hashim ",
-    designation: "Director",
-    des_link_text: "@Navigo_trips",
+    Name: "Muthalib",
+    designation: "General Manager",
+    des_link_text: "@Al murad_typing",
     des_link: "https://navigotrips.com/",
-    contact: "./contact/Haris Husain.vcf",
+    contact: "./contact/Muthalib.vcf",
 };
 
 const contact ={
-    contact_no: "+917909151146",
-    whatsapp: "+917909151146",
-    location: "",
-    mail: "go@navigotrips.com",
+    contact_no: "+971551305202",
+    whatsapp: "+971551305202",
+    location: "https://maps.app.goo.gl/P3AoZMseQL7EZvps7?g_st=ic",
+    mail: "muthupadanna@gmail.com",
 };
+
+const profilelogo=[
+  logo={
+    visibil: false,
+  }
+]
 
 
 
 const links =[
     facebook={
-    visibil: true,
+    visibil: false,
     link:"https://www.facebook.com/navigotravels?mibextid=LQQJ4d"
   },
     instagram={
-    visibil: true,
+    visibil: false,
     link:"https://instagram.com/navigo_trips?igshid=OGQ5ZDc2ODk2ZA=="
   },
     skype={
@@ -32,7 +38,7 @@ const links =[
     link:"https://maps.app.goo.gl/zMguVmn3NbNHkdAb7"
   },
     web={
-    visibil: true,
+    visibil: false,
     link:"https://maps.app.goo.gl/zMguVmn3NbNHkdAb7"
   },
     linkedin={
@@ -49,10 +55,10 @@ const links =[
   },
     mail={
     visibil: true,
-    link:"go@navigotrips.com"
+    link:"muthupadanna@gmail.com"
   },
     google={
-    visibil: true,
+    visibil: false,
     link:"https://navigotrips.com/"
   },
     telegram={
