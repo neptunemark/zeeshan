@@ -1,19 +1,19 @@
 const person = {
-    profile_pic: "./image/MUTHALIB.jpeg",
+    profile_pic: "./image/man19152370.jpg",
     profile_logo: "./image/navigo.jpg",
 
-    Name: "Muthalib",
+    Name: "AMEERSHA MOHAMMED",
     designation: "General Manager",
-    des_link_text: "@Al murad_typing",
-    des_link: "https://navigotrips.com/",
+    des_link_text: "@Fort_Oasis_Trading ",
+    des_link: "",
     contact: "./contact/Muthalib.vcf",
 };
 
 const contact ={
-    contact_no: "+971551305202",
-    whatsapp: "+971551305202",
-    location: "https://maps.app.goo.gl/P3AoZMseQL7EZvps7?g_st=ic",
-    mail: "muthupadanna@gmail.com",
+    contact_no: "+971504584154",
+    whatsapp: "+971504584154",
+    location: "",
+    email: "achuthodika@gmail.com",
 };
 
 const profilelogo=[
@@ -55,7 +55,7 @@ const links =[
   },
     mail={
     visibil: true,
-    link:"muthupadanna@gmail.com"
+    link:"achuthodika@hotmail.com"
   },
     google={
     visibil: false,
