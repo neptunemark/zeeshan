@@ -1,19 +1,19 @@
 const person = {
-    profile_pic: "./image/man19152370.jpg",
-    profile_logo: "./image/man19152370.jpg",
+    profile_pic: "./image/ameen.jpeg",
+    profile_logo: "./image/navigo.jpg",
 
-    Name: "Muhammed Siraj",
-    designation: "Graphic Designer,",
-    des_link_text: "@NeptuneMark",
-    des_link: "https://neptunemark.com/",
+    Name: "Hashim ",
+    designation: "Director",
+    des_link_text: "@Navigo_trips",
+    des_link: "https://navigotrips.com/",
     contact: "./contact/Haris Husain.vcf",
 };
 
 const contact ={
-    contact_no: "+918089969860",
-    whatsapp: "+918089969860",
-    location: "https://maps.app.goo.gl/zMguVmn3NbNHkdAb7",
-    mail: "neptunemarkindia@gmail.com",
+    contact_no: "+917909151146",
+    whatsapp: "+917909151146",
+    location: "",
+    mail: "go@navigotrips.com",
 };
 
 
@@ -21,14 +21,14 @@ const contact ={
 const links =[
     facebook={
     visibil: true,
-    link:"https://neptunemark.com/"
+    link:"https://www.facebook.com/navigotravels?mibextid=LQQJ4d"
   },
     instagram={
     visibil: true,
-    link:"https://maps.app.goo.gl/zMguVmn3NbNHkdAb7"
+    link:"https://instagram.com/navigo_trips?igshid=OGQ5ZDc2ODk2ZA=="
   },
     skype={
-    visibil: true,
+    visibil: false,
     link:"https://maps.app.goo.gl/zMguVmn3NbNHkdAb7"
   },
     web={
@@ -36,35 +36,35 @@ const links =[
     link:"https://maps.app.goo.gl/zMguVmn3NbNHkdAb7"
   },
     linkedin={
-    visibil: true,
+    visibil: false,
     link:"https://maps.app.goo.gl/zMguVmn3NbNHkdAb7"
   },
     behance={
-    visibil: true,
+    visibil: false,
     link:"https://maps.app.goo.gl/zMguVmn3NbNHkdAb7"
   },
     x={
-    visibil: true,
+    visibil: false,
     link:"https://maps.app.goo.gl/zMguVmn3NbNHkdAb7"
   },
     mail={
     visibil: true,
-    link:"https://maps.app.goo.gl/zMguVmn3NbNHkdAb7"
+    link:"go@navigotrips.com"
   },
     google={
     visibil: true,
-    link:"https://maps.app.goo.gl/zMguVmn3NbNHkdAb7"
+    link:"https://navigotrips.com/"
   },
     telegram={
-    visibil: true,
+    visibil: false,
     link:"https://maps.app.goo.gl/zMguVmn3NbNHkdAb7"
   },
     youtube={
-    visibil: true,
+    visibil: false,
     link:"https://maps.app.goo.gl/zMguVmn3NbNHkdAb7"
   },
     pinterest={
-    visibil: true,
+    visibil: false,
     link:"https://maps.app.goo.gl/zMguVmn3NbNHkdAb7"
   },
 ];
