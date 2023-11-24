@@ -6,7 +6,7 @@ const person = {
     designation: "General Manager",
     des_link_text: "@Fort_Oasis_Trading ",
     des_link: "",
-    contact: "./contact/Muthalib.vcf",
+    contact: "./contact/Ameersha Mohammed.vcf",
 };
 
 const contact ={
