@@ -1,19 +1,19 @@
 const person = {
-    profile_pic: "./image/Hallaj.jpeg",
-    profile_logo: "./image/icon.png",
+    profile_pic: "./image/muzammil.JPG",
+    profile_logo: "./image/ZEST.jpeg",
 
-    Name: "Muhammed Alhaj ",
-    designation: "CMO",
-    des_link_text: "@ Neptunemark",
+    Name: "Muzammil sidheeq ",
+    designation: "CEO",
+    des_link_text: "@Zest Stories",
     des_link: "",
     contact: "./contact/Alhaj Neptunemark UAE (4)",
 };
 
 const contact ={
-    contact_no: "+971569226503",
-    whatsapp: "+971569226503",
+    contact_no: "+919746398660",
+    whatsapp: "+919746398660",
     location: "",
-    email: "taptune7@gmail.com",
+    email: "muzammilsidheeq786@gmail.com",
 };
 
 const profilelogo=[
@@ -26,12 +26,12 @@ const profilelogo=[
 
 const links =[
     facebook={
-    visibil: false,
-    link:"https://www.facebook.com/navigotravels?mibextid=LQQJ4d"
+    visibil: true,
+    link:"https://www.facebook.com/muzammil.sidheeq.3"
   },
     instagram={
     visibil: true,
-    link:"https://www.instagram.com/hallaj_cm/?igshid=NzZlODBkYWE4Ng%3D%3D"
+    link:"https://www.instagram.com/muzammilsidheeq/"
   },
     skype={
     visibil: false,
