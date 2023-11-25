@@ -1,19 +1,19 @@
 const person = {
-    profile_pic: "./image/muzammil.JPG",
-    profile_logo: "./image/ZEST.jpeg",
+    profile_pic: "./image/ashique.jpg",
+    profile_logo: "./image/icon.png",
 
-    Name: "Muzammil sidheeq ",
-    designation: "CEO",
-    des_link_text: "@Zest Stories",
+    Name: "Muhammed Ashique",
+    designation: "Director",
+    des_link_text: "@Neptunemark",
     des_link: "",
-    contact: "./contact/Alhaj Neptunemark UAE (4)",
+    contact: "./contact/Muzammil Sidhique.vcf",
 };
 
 const contact ={
-    contact_no: "+919746398660",
-    whatsapp: "+919746398660",
+    contact_no: "+919020114786",
+    whatsapp: "+919020114786",
     location: "",
-    email: "muzammilsidheeq786@gmail.com",
+    email: "muhammedashique9061@gmail.com",
 };
 
 const profilelogo=[
@@ -27,11 +27,11 @@ const profilelogo=[
 const links =[
     facebook={
     visibil: true,
-    link:"https://www.facebook.com/muzammil.sidheeq.3"
+    link:"https://m.facebook.com/story.php?story_fbid=3518586788416843&amp;substory_index=6606390962747757&amp;id=100007966689886&amp;mibextid=2JQ9oc"
   },
     instagram={
     visibil: true,
-    link:"https://www.instagram.com/muzammilsidheeq/"
+    link:"https://instagram.com/mhmd.ashique?igshid=OGQ5ZDc2ODk2ZA=="
   },
     skype={
     visibil: false,
@@ -55,7 +55,7 @@ const links =[
   },
     mail={
     visibil: true,
-    link:"Naufaltyping@gmail.com"
+    link:"muhammedashique9061@gmail.com"
   },
     google={
     visibil: false,
