@@ -1,19 +1,19 @@
 const person = {
-    profile_pic: "./image/ashique.jpg",
-    profile_logo: "./image/icon.png",
+    profile_pic: "./image/SUHAIL.jpg",
+    profile_logo: "./image/DBI.jpg",
 
-    Name: "Muhammed Ashique",
-    designation: "Director",
-    des_link_text: "@Neptunemark",
-    des_link: "",
-    contact: "./contact/Muzammil Sidhique.vcf",
+    Name: "SUHAIL MUHAMMED K",
+    designation: "Creative Director, Media",
+    des_link_text: "@DBI",
+    des_link: "http://www.dbionline.in/",
+    contact: "./contact/Muhammad Suhail K.vcf",
 };
 
 const contact ={
-    contact_no: "+919020114786",
-    whatsapp: "+919020114786",
+    contact_no: "+919895206939",
+    whatsapp: "+919895206939",
     location: "",
-    email: "muhammedashique9061@gmail.com",
+    email: "",
 };
 
 const profilelogo=[
@@ -27,11 +27,11 @@ const profilelogo=[
 const links =[
     facebook={
     visibil: true,
-    link:"https://m.facebook.com/story.php?story_fbid=3518586788416843&amp;substory_index=6606390962747757&amp;id=100007966689886&amp;mibextid=2JQ9oc"
+    link:"https://www.facebook.com/suhail.sulaiman.1481?mibextid=ZbWKwL"
   },
     instagram={
     visibil: true,
-    link:"https://instagram.com/mhmd.ashique?igshid=OGQ5ZDc2ODk2ZA=="
+    link:"https://instagram.com/_yes_ms?igshid=NGVhN2U2NjQ0Yg=="
   },
     skype={
     visibil: false,
@@ -54,7 +54,7 @@ const links =[
     link:"https://maps.app.goo.gl/zMguVmn3NbNHkdAb7"
   },
     mail={
-    visibil: true,
+    visibil: false,
     link:"muhammedashique9061@gmail.com"
   },
     google={
