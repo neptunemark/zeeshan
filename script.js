@@ -1,24 +1,24 @@
 const person = {
-    profile_pic: "./image/SUHAIL.jpg",
+    profile_pic: "./image/jee.jpeg",
     profile_logo: "./image/DBI.jpg",
 
-    Name: "SUHAIL MUHAMMED K",
-    designation: "Creative Director, Media",
-    des_link_text: "@DBI",
-    des_link: "http://www.dbionline.in/",
-    contact: "./contact/Muhammad Suhail K.vcf",
+    Name: "Raoof  jee",
+    designation: "Marketting Stratagist",
+    des_link_text: "@Neptunemark",
+    des_link: "https://neptunemark.com/",
+    contact: "./contact/jee.vcf",
 };
 
 const contact ={
-    contact_no: "+919895206939",
-    whatsapp: "+919895206939",
+    contact_no: "+917994280605",
+    whatsapp: "+917994280605",
     location: "",
     email: "",
 };
 
 const profilelogo=[
   logo={
-    visibil: true,
+    visibil: false,
   }
 ]
 
@@ -27,11 +27,11 @@ const profilelogo=[
 const links =[
     facebook={
     visibil: true,
-    link:"https://www.facebook.com/suhail.sulaiman.1481?mibextid=ZbWKwL"
+    link:"https://www.facebook.com/abdulraoof.jee.5?mibextid=LQQJ4d"
   },
     instagram={
     visibil: true,
-    link:"https://instagram.com/_yes_ms?igshid=NGVhN2U2NjQ0Yg=="
+    link:"https://instagram.com/raoof_jee?igshid=OGQ5ZDc2ODk2ZA=="
   },
     skype={
     visibil: false,
