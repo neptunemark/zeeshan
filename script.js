@@ -1,19 +1,19 @@
 const person = {
-    profile_pic: "./image/jee.jpeg",
+    profile_pic: "./image/shani.jpeg",
     profile_logo: "./image/DBI.jpg",
 
-    Name: "Raoof  jee",
-    designation: "Marketting Stratagist",
-    des_link_text: "@Neptunemark",
-    des_link: "https://neptunemark.com/",
+    Name: "Shanis Shani",
+    designation: "Director",
+    des_link_text: "@ U TERN",
+    des_link: "",
     contact: "./contact/jee.vcf",
 };
 
 const contact ={
-    contact_no: "+917994280605",
-    whatsapp: "+917994280605",
+    contact_no: "+918592072048",
+    whatsapp: "+918592072048",
     location: "",
-    email: "",
+    email: "Shanishanid012@gmail.com",
 };
 
 const profilelogo=[
@@ -31,14 +31,14 @@ const links =[
   },
     instagram={
     visibil: true,
-    link:"https://instagram.com/raoof_jee?igshid=OGQ5ZDc2ODk2ZA=="
+    link:"https://instagram.com/s_hani_d_2048?igshid=NzZlODBkYWE4Ng=="
   },
     skype={
     visibil: false,
     link:"https://maps.app.goo.gl/zMguVmn3NbNHkdAb7"
   },
     web={
-    visibil: true,
+    visibil: false,
     link:"https://neptunemark.com/"
   },
     linkedin={
@@ -54,8 +54,8 @@ const links =[
     link:"https://maps.app.goo.gl/zMguVmn3NbNHkdAb7"
   },
     mail={
-    visibil: false,
-    link:"muhammedashique9061@gmail.com"
+    visibil: true,
+    link:"Shanishanid012@gmail.com"
   },
     google={
     visibil: false,
