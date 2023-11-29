@@ -2,23 +2,23 @@ const person = {
     profile_pic: "./image/shani.jpeg",
     profile_logo: "./image/DBI.jpg",
 
-    Name: "Shanis Shani",
+    Name: "Jafar Madhari",
     designation: "Director",
-    des_link_text: "@ U TERN",
+    des_link_text: "@Neptunemark",
     des_link: "",
-    contact: "./contact/jee.vcf",
+    contact: "./contact/madhari.vcf",
 };
 
 const contact ={
-    contact_no: "+918592072048",
-    whatsapp: "+918592072048",
+    contact_no: "+919744539486",
+    whatsapp: "+919744539486",
     location: "",
-    email: "Shanishanid012@gmail.com",
+    email: "neptunemarkindia@gmail.com",
 };
 
 const profilelogo=[
   logo={
-    visibil: false,
+    visibil: true,
   }
 ]
 
@@ -27,7 +27,7 @@ const profilelogo=[
 const links =[
     facebook={
     visibil: true,
-    link:"https://www.facebook.com/abdulraoof.jee.5?mibextid=LQQJ4d"
+    link:"https://www.facebook.com/jafar.madari?mibextid=LQQJ4d"
   },
     instagram={
     visibil: true,
