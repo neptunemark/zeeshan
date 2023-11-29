@@ -1,5 +1,5 @@
 const person = {
-    profile_pic: "./image/shani.jpeg",
+    profile_pic: "./image/madhari.jpeg",
     profile_logo: "./image/DBI.jpg",
 
     Name: "Jafar Madhari",
@@ -18,7 +18,7 @@ const contact ={
 
 const profilelogo=[
   logo={
-    visibil: true,
+    visibil: false,
   }
 ]
 
@@ -31,7 +31,7 @@ const links =[
   },
     instagram={
     visibil: true,
-    link:"https://instagram.com/s_hani_d_2048?igshid=NzZlODBkYWE4Ng=="
+    link:" https://instagram.com/jafar_madhari?igshid=OGQ5ZDc2ODk2ZA%3D%3D&utm_source=qr"
   },
     skype={
     visibil: false,
@@ -55,11 +55,11 @@ const links =[
   },
     mail={
     visibil: true,
-    link:"Shanishanid012@gmail.com"
+    link:"neptunemarkindia@gmail.com"
   },
     google={
-    visibil: false,
-    link:"https://navigotrips.com/"
+    visibil: true,
+    link:"https://neptunemark.com/"
   },
     telegram={
     visibil: false,
