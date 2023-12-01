@@ -1,5 +1,5 @@
 const person = {
-    profile_pic: "./image/madhari.jpeg",
+    profile_pic: "./image/zee.png",
     profile_logo: "./image/DBI.jpg",
 
     Name: "Muhammad Zeeshan",
@@ -55,10 +55,10 @@ const links =[
   },
     mail={
     visibil: true,
-    link:""
+    link:"mz.macbook1@gmail.com"
   },
     google={
-    visibil: true,
+    visibil: false,
     link:"https://neptunemark.com/"
   },
     telegram={
