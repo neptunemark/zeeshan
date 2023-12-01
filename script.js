@@ -2,18 +2,18 @@ const person = {
     profile_pic: "./image/madhari.jpeg",
     profile_logo: "./image/DBI.jpg",
 
-    Name: "Jafar Madhari",
-    designation: "Director",
-    des_link_text: "@Neptunemark",
+    Name: "Muhammad Zeeshan",
+    designation: "Managing Director",
+    des_link_text: "@Al Mazaj Computer Trading LLC",
     des_link: "",
     contact: "./contact/madhari.vcf",
 };
 
 const contact ={
-    contact_no: "+919744539486",
-    whatsapp: "+919744539486",
+    contact_no: "+971552773305",
+    whatsapp: "+971552773305",
     location: "",
-    email: "neptunemarkindia@gmail.com",
+    email: "mz.macbook1@gmail.com",
 };
 
 const profilelogo=[
@@ -26,11 +26,11 @@ const profilelogo=[
 
 const links =[
     facebook={
-    visibil: true,
+    visibil: false,
     link:"https://www.facebook.com/jafar.madari?mibextid=LQQJ4d"
   },
     instagram={
-    visibil: true,
+    visibil: false,
     link:" https://instagram.com/jafar_madhari?igshid=OGQ5ZDc2ODk2ZA%3D%3D&utm_source=qr"
   },
     skype={
@@ -55,7 +55,7 @@ const links =[
   },
     mail={
     visibil: true,
-    link:"neptunemarkindia@gmail.com"
+    link:""
   },
     google={
     visibil: true,
