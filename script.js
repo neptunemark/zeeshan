@@ -6,7 +6,7 @@ const person = {
     designation: "Managing Director",
     des_link_text: "@Al Mazaj Computer Trading LLC",
     des_link: "",
-    contact: "./contact/madhari.vcf",
+    contact: "./contact/zeeshan.vcf",
 };
 
 const contact ={
